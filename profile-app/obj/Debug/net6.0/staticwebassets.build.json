@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3HNKVkRy8oF42uI98i3cumcTpPJO1AvTs9/LyUlTyIU=",
+  "Source": "profile-app",
+  "BasePath": "_content/profile-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
